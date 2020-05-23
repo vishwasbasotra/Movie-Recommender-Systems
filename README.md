@@ -4,6 +4,13 @@
 - Recommender systems are algorithms designed to help users discover movies, products, and songs by predicting the user’s rating of each item and displaying similar items that they might rate high as well.
 -  The objective is to show customers content that they would like best based on their historical activity. 
 
+## We will discuss two types of recommender systems:
+
+__Demographic Filtering__- They offer generalized recommendations to every user, based on movie popularity and/or genre. The System recommends the same movies to users with similar demographic features. Since each user is different , this approach is considered to be too simple. The basic idea behind this system is that movies that are more popular and critically acclaimed will have a higher probability of being liked by the average audience.
+
+__Collaborative Filtering__- This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filters do not require item metadata like its content-based counterparts.
+
+## Collaborative Filtering:
 ### RECOMMENDER SYSTEMS: USER-BASED COLLABORATIVE FILTER
 - User-based collaborative filtering works by building a matrix of every piece of content that users bought or viewed. 
 - Similarity scores are then calculated between users to find similar users to each others. 
