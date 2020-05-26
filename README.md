@@ -1,6 +1,12 @@
 # Movie Recommender Systems
 Recommender systems are algorithms designed to help users discover movies, products, and songs by predicting the user’s rating of each item and displaying similar items that they might rate high as well. The objective is to show customers content that they would like best based on their historical activity. 
 
+## Technical Requirements
+This course has the following software requirements:
+- Python 3.7
+- Anaconda
+- Jupyter Notebook
+
 ## We will discuss two types of recommender systems:
 
 __Demographic Filtering__- They offer generalized recommendations to every user, based on movie popularity and/or genre. The System recommends the same movies to users with similar demographic features. Since each user is different , this approach is considered to be too simple. The basic idea behind this system is that movies that are more popular and critically acclaimed will have a higher probability of being liked by the average audience.
